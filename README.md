@@ -4,8 +4,11 @@ The schoolboard has recognized evidence of academic dishonestly, specifically fo
 
 ## Results 
 •	The district summary was not affected by much. The passing percentages stayed relatively the same 
+
 •	The school summary was affected a lot by the changes. Passing percentages went from being in the high 60s to being in the 90s 
+
 •	Thomas High School is now in the top 5 for high schools in overall passing percentage, specifically second 
+
 •	Replacing the ninth-grade scores only affects the ninth-grade math and reading scores and not the other grades. As well as have little affect on the scores by size, spending range, and district
 
 ## Summary
